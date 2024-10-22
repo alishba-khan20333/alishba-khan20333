@@ -38,17 +38,17 @@ That's why I like to make things that make a difference.
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/alishba-khan20333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amanulahq" height="30" width="40" /></a>
+<a href="https://github.com/alishba-khan20333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alishba Khan" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman26haq" height="30" width="40" /></a>
+<a href="https://leetcode.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Alishba Khan" height="30" width="40" /></a>
 &nbsp;
 <a href="https://stackoverflow.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanulhaq2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Alishba Khan" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/@alishbakhan20333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="amanaulhaq3" height="30" width="40" /></a>
+<a href="https://medium.com/@alishbakhan20333" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Alishba Khan" height="30" width="40" /></a>
 &nbsp;
-<a href="https://dev.to/alishba_khan_20333" target="_blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="aman" height="30" width="40" /></a>
+<a href="https://dev.to/alishba_khan_20333" target="_blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Alishba Khan" height="30" width="40" /></a>
 &nbsp;
 
 ---
